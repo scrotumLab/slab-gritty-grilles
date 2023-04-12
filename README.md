@@ -1,4 +1,4 @@
-# slab-gritty-grilles 3 modes (Euclidean/Drum/Clock div) and improved MIDI Implementation
+# slab-gritty-grilles - 3 modes (Euclidean/Drum/Clock div) and improved MIDI Implementation
 slab-gritty-grilles is a mix of 3 open source firmwares.
 The original Mutable Instruments firmware.
 The unofficial SlowGrowth firmware which was adding a 3rd mode to the standard MI code. So we had Euclidean/Drum/Clock div modes ([url=You can check how the clock divisions mode works here:
